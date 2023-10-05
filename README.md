@@ -1,6 +1,6 @@
 # basicflutter
 
-A new Flutter project.
+รายการนี้ดิฉัน นางสาว สุคนธ์ทิพย์ ด้วงวังหิน ขอนแก่นวิทยายน นำไปใส่ Portfolio เพื่อเข้ามหาวิทยาลัย
 
 ## Getting Started
 
